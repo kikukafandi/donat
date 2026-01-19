@@ -1,6 +1,6 @@
 # 🍩 Donat
 
-![icon](https://blogger.googleusercontent.com/img/a/AVvXsEj1Fy1Jq-dpT7v2lMuVutexOKsmA27qtJDxKk2Hp8rap-VHD7tWQkDeS3Sz4dHQH0Ux6Yx4hK1s1GHIOeeKINSp_t0dXZ-XwHewIXqferfYniZX2lnjbq1hu4Q16p469IwZoQaZUTyt_Y7I0VYqVkaf-fbTGZBfRnZfu4DycQAxjv9EEQMGdS5PlJ0NQNci)
+<img src="https://blogger.googleusercontent.com/img/a/AVvXsEj1Fy1Jq-dpT7v2lMuVutexOKsmA27qtJDxKk2Hp8rap-VHD7tWQkDeS3Sz4dHQH0Ux6Yx4hK1s1GHIOeeKINSp_t0dXZ-XwHewIXqferfYniZX2lnjbq1hu4Q16p469IwZoQaZUTyt_Y7I0VYqVkaf-fbTGZBfRnZfu4DycQAxjv9EEQMGdS5PlJ0NQNci" width="500" style="display: block; margin-left: auto; margin-right: auto;" alt="icon"/>
 
 **Donat** (Do Not Accept Trash) adalah aplikasi Command Line Interface (CLI) ringan yang ditulis menggunakan Go. Alat ini memungkinkan kamu membuat email sementara secara instan langsung dari terminal. Cocok untuk menghindari spam, mendaftar di situs yang mencurigakan, atau melakukan testing aplikasi.
 
