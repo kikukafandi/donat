@@ -6,8 +6,8 @@ import (
 	"path/filepath"
 )
 
-// sessionFile defines the name of the persistent file stored in the user's home directory.
-const sessionFile = ".donat_session.json"
+// SessionFile defines the name of the persistent file stored in the user's home directory.
+var SessionFile = ".donat_session.json"
 
 // DonatSession represents the persistent state required to maintain the user's identity.
 type DonatSession struct {
@@ -18,7 +18,7 @@ type DonatSession struct {
 // getFilePath resolves the absolute path to the session file based on the OS user's home directory.
 func getFilePath() string {
 	home, _ := os.UserHomeDir()
-	return filepath.Join(home, sessionFile)
+	return filepath.Join(home, SessionFile)
 }
 
 // Save writes the current email and session token to disk.
