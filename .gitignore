@@ -1,0 +1,17 @@
+# Binaries
+/bin/
+/dist/
+*.exe
+*.dll
+*.so
+*.dylib
+main
+
+# IDEs
+.vscode/
+.idea/
+
+# Vendor & Temp
+vendor/
+tmp/
+*.log
