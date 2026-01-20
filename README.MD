@@ -1,6 +1,6 @@
 # 🍩 Donat
 
-<img src="https://blogger.googleusercontent.com/img/a/AVvXsEj1Fy1Jq-dpT7v2lMuVutexOKsmA27qtJDxKk2Hp8rap-VHD7tWQkDeS3Sz4dHQH0Ux6Yx4hK1s1GHIOeeKINSp_t0dXZ-XwHewIXqferfYniZX2lnjbq1hu4Q16p469IwZoQaZUTyt_Y7I0VYqVkaf-fbTGZBfRnZfu4DycQAxjv9EEQMGdS5PlJ0NQNci" width="500" style="display: block; margin-left: auto; margin-right: auto;" alt="icon"/>
+<img src="https://blogger.googleusercontent.com/img/a/AVvXsEhj-H55ALummP-BiOiE66dlC83nYCmQDRDrBR5sn5i_lS6Y485NiuB0itEkfPiZBm0ow7yxX1yjExNEcGPcSbaHt6TRVWc-Z56d2ARLDxmWsMvRJoVkuJ6Dd6rytthFxszhRGg0RHspt-AewY51iiWiXy6M7ENBTFElUwBltLwROn9I2AUXaLIMkEdQBMn5" width="500" style="display: block; margin-left: auto; margin-right: auto;" alt="icon"/>
 
 **Donat** (Do Not Accept Trash) is a lightweight Command Line Interface (CLI) tool written in Go. It allows you to generate disposable email addresses instantly, straight from your terminal. Perfect for bypassing sign-up forms, avoiding spam, and testing applications.
 
